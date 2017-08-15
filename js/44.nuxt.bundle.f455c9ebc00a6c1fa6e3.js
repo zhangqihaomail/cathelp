@@ -1,1 +1,0 @@
-webpackJsonp([44],{249:function(n,e,t){var r=t(17)(null,t(502),null,null,null);n.exports=r.exports},502:function(n,e){n.exports={render:function(){var n=this,e=n.$createElement;n._self._c;return n._m(0)},staticRenderFns:[function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[t("h2",[n._v("\n    这是数据传输页面\n  ")])])}]}}});
