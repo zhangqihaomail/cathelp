@@ -1,2 +1,4 @@
-# cathelp
-Help center for cat platfrom
+# CATHelp Center
+Help for CAT platform
+
+
