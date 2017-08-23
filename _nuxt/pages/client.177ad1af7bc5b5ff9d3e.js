@@ -1,0 +1,2 @@
+webpackJsonp([51],{"24RP":function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},l=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("span",[e._v("移动客户端")])])}],u={render:r,staticRenderFns:l},s=u,c=t("J0+h"),a=c(null,s,null,null,null);n.default=a.exports}});
+//# sourceMappingURL=client.177ad1af7bc5b5ff9d3e.js.map

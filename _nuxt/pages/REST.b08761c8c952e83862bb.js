@@ -1,0 +1,2 @@
+webpackJsonp([94],{NlHE:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var l=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},r=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("span",[e._v("REST协议")])])}],u={render:l,staticRenderFns:r},s=u,c=t("J0+h"),a=c(null,s,null,null,null);n.default=a.exports}});
+//# sourceMappingURL=REST.b08761c8c952e83862bb.js.map

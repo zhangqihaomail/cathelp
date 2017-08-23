@@ -1,0 +1,2 @@
+webpackJsonp([64],{bTNm:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var l=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("nuxt")],1)},r=[],u={render:l,staticRenderFns:r},s=u,c=t("J0+h"),a=c(null,s,null,null,null);n.default=a.exports}});
+//# sourceMappingURL=Hdev.b5d97c2f8d6065b5a7a7.js.map

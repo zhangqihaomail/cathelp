@@ -1,0 +1,2 @@
+webpackJsonp([107],{RYiA:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={mounted:function(){}},u=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},l=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("h2",[e._v("页面")])])}],c={render:u,staticRenderFns:l},i=c,s=t("J0+h"),a=s(r,i,null,null,null);n.default=a.exports}});
+//# sourceMappingURL=doc-group-page.50b3af309d12a12a0a0e.js.map

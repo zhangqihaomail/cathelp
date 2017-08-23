@@ -1,0 +1,2 @@
+webpackJsonp([60],{FPDM:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},l=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("h2",[e._v("\n    电量模块\n  ")])])}],u={render:r,staticRenderFns:l},c=u,s=t("J0+h"),a=s(null,c,null,null,null);n.default=a.exports}});
+//# sourceMappingURL=Hdev-power-powerModel.4de9276f04c3164f4931.js.map
