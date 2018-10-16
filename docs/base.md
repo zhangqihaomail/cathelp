@@ -1,9 +1,5 @@
 # 基本概念
----
-title: 基本概念
-type: guide
-order: 2
----
+
 
 ## 概述
 
@@ -23,7 +19,7 @@ order: 2
 
 ## 应用
 在应用管理中创建应用、删除应用、修改应用基本信息
-![创建的应用](https://webdriver-image.oss-cn-beijing.aliyuncs.com/help/3.png)
+![创建的应用](../images/logo.png)
 
 > 同一应用中的所有页面宽度相同
 
